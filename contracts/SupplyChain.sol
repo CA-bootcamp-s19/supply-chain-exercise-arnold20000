@@ -1,4 +1,4 @@
-pragma solidity ^0.5.12;
+pragma solidity ^0.5.0;
 
 contract SupplyChain { // this is the supplychain test. Okay to change.
 
